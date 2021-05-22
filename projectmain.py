@@ -151,7 +151,7 @@ while(current!=None):
     print(str(current.credit_hours).ljust(40," "))
     current=current.next
 print("")
-if total_credit_hours>40:
+if total_credit_hours>20:
     print('Warning, your credit hours have exceeded the limit!')
 print("Total credit hours:".ljust(40," "),end="")
 print(str(total_credit_hours).ljust(40," "))
