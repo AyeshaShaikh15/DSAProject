@@ -100,14 +100,14 @@ def printsortedlist(lst):   #prints the sorted list in the same manner as it was
         print('|'+str(i[2]).center(40," "))
 
 lst = []               #reads the file and adds courses into a list 
-file=open("1.txt","r")
+file=open("data.txt","r")
 produced_list=LinkedList()
 for line in file:
    line=line.replace("\n","")
    line=line.split(" ")
    lst.append(line)
 
-file=open("1.txt","r")   # reads file and addds courses into a linked list
+file=open("data.txt","r")   # reads file and addds courses into a linked list
 produced_list=LinkedList()
 for line in file:
    line=line.replace("\n","")
