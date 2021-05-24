@@ -1,4 +1,4 @@
-# DSAProject-Shayan-Ayesha-Aquib
+# DSA Project: Shayan Qadri, Ayesha Shaikh, Aquib Ansari
 The inspiration for this project was taken from our Enrollment that takes place every semester. 
 The project will ask the user from a list of courses( a text file) and will allow them to add courses to their cart. The courses are DSSE courses including cs,ee and core courses.
 The name of the text file is data.txt
