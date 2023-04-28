@@ -1,4 +1,5 @@
 class Node:
+
    def __init__(self,course_code='NA',course_name="NA",credit_hours=0.0):
        self.course_code=course_code
        self.course_name=course_name
