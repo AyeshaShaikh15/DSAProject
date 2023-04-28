@@ -47,3 +47,4 @@ core202 Hikma1 4.0
 core301 ScientificMethods 4.0
 core302 JehaneUrdu 4.0
 core401 Philosophy 4.0
+mgmt300 Engineering Project Management 3.0
